@@ -1,0 +1,1743 @@
+.homeNav{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-left: 90px;
+
+
+}
+.HomeNavP{
+    font-size: 17px;
+    margin-bottom: 15px;
+ 
+}
+
+#iconOx{
+    margin-left: 50px;
+    margin-right: 12px;
+
+}
+#iconOx1{
+    margin-left: 70px;
+    margin-right: 12px;
+}
+.HomeStart{
+    display: flex;
+    flex-direction: row;
+}
+
+.Swiper{
+    max-width: 750px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.SwiperImg{
+max-height: 400px;
+width: 750px;
+margin: auto;
+margin-left: 10px;
+margin-right: 3px;
+height: 380px;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+@media(max-width:989px){
+    .SwiperImg{
+        max-height: 370px;
+        height: 340px;
+        width: 600px;
+    }
+    .Swiper{
+        max-width: 600px;
+    }
+
+}
+@media(max-width:895px){
+    .SwiperImg{
+        max-height: 350px;
+        height: 320px;
+        width: 500px;
+    }
+    .Swiper{
+        max-width: 500px;
+    }
+
+}
+@media(max-width:895px){
+    .SwiperImg{
+        max-height: 330px;
+        height: 300px;
+        width: 400px;
+    }
+    .Swiper{
+        max-width: 400px;
+    }
+
+}
+@media(max-width:795px){
+    .SwiperImg{
+        max-height: 310px;
+        height: 280px;
+        width: 350px;
+    }
+    .Swiper{
+        max-width: 350px;
+    }
+    .HomeNavP{
+        font-size: 14px;
+    }
+    #iconOx{
+        margin-left: 30px;
+        margin-right: 8px;
+
+    }
+    #iconOx1{
+        margin-left: 35px;
+        margin-right: 8px;
+    }
+
+
+
+}
+@media(max-width:620px){
+    .SwiperImg{
+        max-height: 280px;
+        height: 250px;
+        width: 300px;
+    }
+    .Swiper{
+        max-width: 300px;
+    }
+    .HomeNavP{
+        font-size: 11px;
+    }
+    #iconOx{
+margin-right: 5px;
+margin-left: 20px;
+    }
+    #iconOx1{
+margin-right: 5px;
+margin-left: 25px;
+    }
+
+
+}
+@media(max-width:510px){
+    .SwiperImg{
+        max-height: 250px;
+        height: 220px;
+        width: 250px;
+    }
+    .Swiper{
+        max-width: 250px;
+    }
+    .HomeNavP{
+        font-size: 9px;
+    }
+    #iconOx{
+margin-right: 5px;
+margin-left: 10px;
+    }
+    #iconOx1{
+margin-right: 5px;
+margin-left: 15px;
+    }
+
+
+}
+@media(max-width:430px){
+    .SwiperImg{
+        max-height: 260px;
+        height: 260px;
+        width: 260px;
+        margin-bottom: 10px;
+    }
+    .Swiper{
+        max-width: 240px;
+    }
+    .HomeNavP{
+        font-size: 9px;
+    }
+    #iconOx{
+margin-right: 2px;
+margin-left: 10px;
+    }
+    #iconOx1{
+margin-right: 2px;
+margin-left: 15px;
+    }
+    .homeNav{
+        padding-left: 20px;
+    }
+
+
+}
+@media(max-width:398px){
+    .SwiperImg{
+        max-height: 220px;
+        height: 260px;
+        width: 260px;
+    }
+    .Swiper{
+        max-width: 210px;
+        margin-left: 140px;        
+
+    }
+    .HomeNavP{
+        font-size: 9px;
+    }
+    #iconOx{
+margin-right: 2px;
+margin-left: 5px;
+    }
+    #iconOx1{
+margin-right: 2px;
+margin-left: 10px;
+    }
+    .homeNav{
+        padding-left: 20px;
+    }
+
+
+}
+.SwipeInfoDiv{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 30px;
+
+}
+.SwiperImg{
+    position: absolute;
+}
+#IconSwiper{
+    font-size: 60px;
+    color: aliceblue;
+}
+.InfoSwipe{
+color: white;
+margin-left: 25px;
+margin-bottom: 10px;
+}
+.voucherSwipe{
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+.linkSwipe{
+    color: aliceblue;
+    font-size: 20px;
+}
+@media(max-width:900px){
+
+    .SwipeInfoDiv{
+        position: relative;
+        margin-top: 25px;
+        margin-left: 15px;
+    
+    }
+    .SwiperImg{
+        position: absolute;
+    }
+    #IconSwiper{
+        font-size: 35px;
+        color: aliceblue;
+    }
+    .InfoSwipe{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    }
+    .voucherSwipe{
+        color: rgb(255, 255, 255);
+        margin-bottom: 7px;
+        font-size: 20px;
+    }
+    .linkSwipe{
+        color: aliceblue;
+        font-size: 18px;
+    }
+    
+}
+@media(max-width:600px){
+
+    .SwipeInfoDiv{
+        position: relative;
+        margin-top: 15px;
+        margin-left: 15px;
+    
+    }
+    .SwiperImg{
+        position: absolute;
+    }
+    #IconSwiper{
+        font-size: 35px;
+        color: aliceblue;
+    }
+    .InfoSwipe{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    }
+    .voucherSwipe{
+        color: rgb(255, 255, 255);
+        margin-bottom: 7px;
+        font-size: 20px;
+    }
+    .linkSwipe{
+        color: aliceblue;
+        font-size: 18px;
+    }
+    
+}
+@media(max-width:400px){
+
+    .SwipeInfoDiv{
+        position: relative;
+        margin-top: 15px;
+        margin-left: 15px;
+    
+    }
+    .SwiperImg{
+        position: absolute;
+    }
+    #IconSwiper{
+        font-size: 28px;
+        color: aliceblue;
+    }
+    .InfoSwipe{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    }
+    .voucherSwipe{
+        color: rgb(255, 255, 255);
+        margin-bottom: 7px;
+        font-size: 15px;
+    }
+    .linkSwipe{
+        color: aliceblue;
+        font-size: 14px;
+    }
+    
+}
+#Figure4{
+background-color: red;
+color: red;
+height: 40px;
+margin-left: 10px;
+border-radius: 4px;
+}
+.Divimsen{
+display: flex;
+flex-direction: row;
+
+
+}
+.Divim{
+    margin-top:10px;
+    color: red;
+    margin-left: 5px;
+}
+.Divler{
+    margin-top: 20px;
+}
+.Hed{
+    margin-top: 30px;
+}
+.divvleri{
+    display: flex;
+    flex-direction: row;
+}
+.CountDown{
+    margin-top:0px;
+    padding-left: 10px;
+margin-left: 150px;
+font-size: 45px;
+padding: 15px;
+color: rgba(43, 12, 12, 0.758);
+display: flex;
+flex-direction: row;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.CountDowns{
+    margin-top:17px;
+    padding-left: 10px;
+margin-left: 170px;
+font-size: 15px;
+padding: 10px;
+color: rgba(37, 6, 6, 0.758);
+
+
+
+}
+.pTime{
+    font-size: 12px;
+    margin-left: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cards{
+max-width: calc((100%/12)*3);
+max-height: 240px;
+height: 240px;
+margin-left:40px;
+display: block;
+margin-bottom: 120px;
+}
+.cardImage{
+    width: 220px;
+    height: 240px;
+    margin: 10px 10px 2px 10px;
+    padding: 10px;
+    display: block;
+}
+.cardInfoHed{
+    margin-left: 24px;
+    min-width: 200px;
+    padding-bottom: 15px;
+    font-size: 17px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.cardInfoHed2{
+    margin-left: 24px;
+    font-size: 17px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    margin-right: 5px;
+    padding-bottom: 10px;
+    
+}
+.CardDivi{
+    display: flex;
+    
+}
+.cardInfoHed3{
+    margin-left: 12px;
+    font-size: 17px;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.Rating{
+    margin-left: 20px;
+}
+.RatingDiv{
+    display: flex;
+    flex-direction: row;
+}
+.count{
+    margin-top: 4px;
+}
+.vouccher{
+    margin-left: 30px;
+    padding: 3px 3px;
+    height: 20px;
+    width: 40px;
+    border-radius: 10px;
+    background-color: red;
+    position: absolute;
+    margin-top: -250px;
+    color: aliceblue;
+}
+.DivCard{
+    position: relative;
+}
+.Urek{
+    
+        margin-left: 200px;
+        padding: 3px 3px;
+        height: 16px;
+        width: 16px;
+        border-radius: 50%;
+    background-color: rgba(24, 20, 20, 0.591);
+        position: absolute;
+        margin-top: -250px;
+    color: aliceblue;
+    
+    
+}
+.Eye{
+    
+    margin-left: 200px;
+    padding: 3px 3px;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background-color: rgba(24, 20, 20, 0.591);
+    position: absolute;
+    margin-top: -220px;
+    color: aliceblue;
+
+
+}
+.Swipers{
+    max-width: 1200px;
+    margin-top: 10px;
+    margin-left: 100px;
+    min-height: 440px;
+}
+.Swiperss{
+    max-width: 1200px;
+    margin-top: 10px;
+    margin-left: 100px;
+    min-height: 800px;
+}
+@media(max-width:960px){
+    .grid1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-image: url("https://i.pinimg.com/474x/37/98/1f/37981f08b3b5b16200fbba1e419b6e13.jpg");
+        height:350px!important;
+        margin: auto;
+        margin-left: 30px!important;
+        margin-right: 30px!important;
+        margin-top: 10px!important;
+
+    }
+    .H1Heding{
+        color: white;
+        padding: 20px!important;
+    }
+    .kator{
+        color: rgb(26, 200, 26);
+        padding-top: 20px!important;
+        padding-left: 20px!important;
+    }
+    
+    .CountDown1{
+        margin-top:0px!important;
+        padding-left: 5px!important;
+    margin-left: 50px!important;
+    font-size: 35px!important;
+    padding: 10px!important;
+    color: rgba(45, 43, 43, 0.758);
+    display: flex;
+    flex-direction: row;
+    font-family:Verdana, Geneva, Tahoma, sans-serif!important
+    
+    
+    }
+    .BuyNow{
+        color: aliceblue;
+        background-color: rgb(17, 243, 17);
+        height: 40px!important;
+        width:165px!important;
+        border: none;
+        margin-left: 65px!important;
+        font-size: 20px!important;
+        padding: 5px!important;
+        text-align: center;
+    }
+    .DimImg{
+        height: 350px!important;
+        width: 300px!important;
+    }
+    .pTime1{
+        font-size: 9px;
+        margin-left: 3px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .Hours{
+        background-color: aliceblue;
+        border-radius: 50%;
+        height: 40px!important;
+        width:40px!important;
+    text-align: center;
+    padding: 10px!important;
+    margin: 10px!important;
+    }
+    .cardImage{
+        height: 200px;
+        width: 170px;
+    }
+    .Urek{
+        margin-top: -200px;
+        margin-left: 160px;
+
+    }
+    .Eye{
+        margin-top: -170px;
+        margin-left: 160px;
+
+    }
+    .vouccher{
+        margin-top: -207px;
+        margin-left: 25px;
+        height: 17px;
+        width: 34px;
+        font-size: 14.5px;
+    }
+    .cardInfoHed{
+        font-size: 13px;
+    }
+    .cardInfoHed2{
+        font-size: 16px;
+    }
+    .cardInfoHed2{
+        font-size: 16px;
+    }
+    .Rating{
+        font-size: 5px;
+    }
+    .AddToCart{
+        width: 163px !important;
+        height: 10px;
+    }
+    
+
+
+    
+}
+@media(max-width:760px){
+    .cardImage{
+        height: 170px;
+        width: 140px;
+    }
+    .Urek{
+        margin-top: -180px;
+        margin-left: 128px;
+
+    }
+    .Eye{
+        margin-top: -148px;
+        margin-left: 128px;
+
+    }
+    .vouccher{
+        margin-top: -177px;
+        margin-left: 25px;
+        height: 17px;
+        width: 34px;
+        font-size: 14.5px;
+    }
+    .cardInfoHed{
+        font-size: 11px;
+    }
+    .cardInfoHed2{
+        font-size: 12px;
+    }
+    .cardInfoHed3{
+        font-size: 12px;
+    }
+    .Rating{
+        font-size: 3px;
+    }
+    .RatingDiv{
+        display: flex;
+        flex-direction: column;
+    }
+    .count{
+        margin-left: 25px;
+    }
+    .AddToCart{
+        width: 133px !important;
+        height: 10px;
+    }
+    
+
+
+    
+}
+@media(max-width:560px){
+    .cardImage{
+        height: 125px;
+        width: 105px;
+    }
+    .Urek{
+        margin-top: -135px;
+        margin-left: 100px;
+    }
+    .Eye{
+        margin-top: -105px;
+        margin-left: 100px;
+
+    }
+    .vouccher{
+        margin-top: -132px;
+        margin-left: 25px;
+        height: 13.5px;
+        width: 27px;
+        font-size: 10.5px;
+    }
+    .cardInfoHed{
+        font-size: 8px;
+    }
+    .cardInfoHed2{
+        font-size: 12px;
+    }
+    .cardInfoHed3{
+        font-size: 12px;
+    }
+    .Rating{
+        font-size: 3px;
+    }
+    .RatingDiv{
+        display: flex;
+        flex-direction: column;
+    }
+    .count{
+        margin-left: 25px;
+        font-size: 12px;
+    }
+    .AddToCart{
+        width: 97px !important;
+        height: 5px;
+    }
+    .AllProducts{
+        margin-top: -120px!important;
+    }
+    
+
+
+    
+}
+@media(max-width:406px){
+    .cardImage{
+        height: 103px;
+        width: 83px;
+    }
+    .Urek{
+        margin-top: -115px;
+        margin-left: 80px;
+    height: 10px;
+    width: 10px;
+    font-size: 10px;
+}
+    .Eye{
+        margin-top: -95px;
+        margin-left: 80px;
+        font-size: 10px;
+        width: 10px;
+        height: 10px;
+
+
+    }
+    .vouccher{
+        margin-top: -112px;
+        margin-left: 25px;
+        height: 13.5px;
+        width: 27px;
+        font-size: 10.5px;
+    }
+    .cardInfoHed{
+        font-size: 8px;
+    }
+    .cardInfoHed2{
+        font-size: 12px;
+    }
+    .cardInfoHed3{
+        font-size: 12px;
+    }
+    .Rating{
+        font-size: 3px;
+    }
+    .RatingDiv{
+        display: flex;
+        flex-direction: column;
+    }
+    .count{
+        margin-left: 25px;
+        font-size: 12px;
+    }
+    #Id{
+        font-size: 15px!important;
+    
+    }
+    .AddToCart{
+        width: 77px !important;
+        height: 10px !important;
+        font-size: 10px;
+        margin-top: -27px!important;
+    }
+
+
+    
+}
+#Id{
+    font-size: 18px!important;
+
+}
+.count{
+    font-size: 12px;
+}
+.AddToCart{
+    margin-left: 20px;
+        padding: 3px 3px;
+        width: 212px;
+        background-color: rgb(11, 0, 0);
+        position: absolute;
+        margin-top: -40px;
+        color: rgb(204, 230, 253);
+        text-align: center;
+        display: none;
+}
+.cards:hover .AddToCart{
+
+        display: block;
+    
+}
+#ButtonOne:hover{
+background-color: red;
+color: aliceblue;
+}
+.AllProducts{
+    color: aliceblue;
+    background-color: red;
+    padding: 16px 12px;
+text-align: center;
+width: 150px;
+margin: auto;
+
+}
+#ButtonOne{
+margin: 40px;
+border: 1px solid black;
+padding: 40px!important;
+font-size: 35px!important;
+margin: auto;
+text-align: center;
+margin-top: 80px!important;
+
+}
+.Baton{
+    display: flex;
+    flex-direction: row;
+width: 1200px;
+margin-left: -120px;
+}
+
+
+@media(max-width:1238px){
+    #ButtonOne{
+        padding: 19px!important;
+        font-size: 20px;
+    }
+    .Baton{
+        width: 900px;
+    }
+}
+@media(max-width:700px){
+    #ButtonOne{
+        padding: 5px;
+        font-size: 15px;
+
+    }
+    .Baton{
+        width: 500px;
+        margin-left: -140px;
+        margin-top: 130px;
+    }
+    .Hed{
+        margin-bottom: 40px!important;
+    }
+}
+
+@media(max-width:900px){
+    #ButtonOne{
+        padding: 15px;
+        font-size: 17px;
+
+    }
+    .Baton{
+        width: 700px;
+        margin-left: -290px;
+    }
+
+}
+@media(max-width:400px){
+   
+    #ButtonOne{
+        padding: 6px;
+        font-size: 18px;
+        
+    }
+    .Baton{
+        width: 280px;
+        margin-left: -10px;
+    }
+    .Hed{
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    .CountDown{
+        font-size: 30px;
+    }
+    .pTime{
+        font-size: 8px;
+    }
+}
+
+@media(min-width:400px){
+    #ButtonOne{
+        padding: 6px;
+        font-size: 18px;
+        
+    }
+    .Baton{
+        width: 280px;
+        margin-left: -180px;
+    }
+    .Hed{
+        margin-top: 30px;
+        font-size: 40px;
+    }
+    .CountDown{
+        font-size: 30px;
+    }
+    .pTime{
+        font-size: 8px;
+    }
+}
+@media(min-width:500px){
+    #ButtonOne{
+        padding: 6px;
+        font-size: 18px;
+
+        
+    }
+    .Baton{
+        width: 480px;
+        margin-left: -180px;
+    }
+    .Hed{
+        margin-top: 30px;
+        font-size: 40px;
+    }
+    .CountDown{
+        font-size: 30px;
+    }
+    .pTime{
+        font-size: 8px;
+    }
+    .View{
+        height: 30px!important;
+    }
+}
+.Diclik{
+display: flex;
+
+}
+.Write{
+    font-size: 10px;
+    padding-top: 10px;
+    margin: auto;
+
+}
+.hr{
+    margin-top: -160px;
+}
+.View{
+    background-color: red;
+    color: aliceblue;
+    width: 66px;
+    padding: 10px;
+text-align: center;
+margin-left: 60%;
+height: 20px;
+}
+
+@media(max-width:500px) {
+    .View{
+        height: 30px!important;
+    }
+}
+.grid1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url("https://i.pinimg.com/474x/37/98/1f/37981f08b3b5b16200fbba1e419b6e13.jpg");
+    height:400px;
+    margin: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.H1Heding{
+    color: white;
+    padding: 30px;
+}
+.kator{
+    color: rgb(26, 200, 26);
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.CountDown1{
+    margin-top:0px;
+    padding-left: 10px;
+margin-left: 100px;
+font-size: 45px;
+padding: 15px;
+color: rgba(45, 43, 43, 0.758);
+display: flex;
+flex-direction: row;
+font-family:Verdana, Geneva, Tahoma, sans-serif!important
+
+
+}
+.BuyNow{
+    color: aliceblue;
+    background-color: rgb(17, 243, 17);
+    height: 60px;
+    width:205px;
+    border: none;
+    margin-left: 105px;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.DimImg{
+    height: 400px;
+    width: 500px;
+}
+.pTime1{
+    font-size: 12px;
+    margin-left: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.Hours{
+    background-color: aliceblue;
+    border-radius: 50%;
+    height: 60px;
+    width: 66px;
+text-align: center;
+padding: 5px;
+margin: 10px;
+}
+@media(max-width:1168px) {
+    .grid1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-image: url("https://i.pinimg.com/474x/37/98/1f/37981f08b3b5b16200fbba1e419b6e13.jpg");
+        height:400px;
+        margin: auto;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 10px;
+
+    }
+    .H1Heding{
+        color: white;
+        padding: 30px;
+    }
+    .kator{
+        color: rgb(26, 200, 26);
+        padding-top: 30px;
+        padding-left: 30px;
+    }
+    
+    .CountDown1{
+        margin-top:0px;
+        padding-left: 10px;
+    margin-left: 100px;
+    font-size: 45px;
+    padding: 15px;
+    color: rgba(45, 43, 43, 0.758);
+    display: flex;
+    flex-direction: row;
+    font-family:Verdana, Geneva, Tahoma, sans-serif!important
+    
+    
+    }
+    .BuyNow{
+        color: aliceblue;
+        background-color: rgb(17, 243, 17);
+        height: 60px;
+        width:205px;
+        border: none;
+        margin-left: 105px;
+        font-size: 30px;
+        padding: 10px;
+        text-align: center;
+    }
+    .DimImg{
+        height: 400px;
+        width: 350px;
+    }
+    .pTime1{
+        font-size: 12px;
+        margin-left: 3px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .Hours{
+        background-color: aliceblue;
+        border-radius: 50%;
+        height: 60px;
+        width: 66px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    }
+}
+@media(max-width:688px) {
+    .grid1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-image: url("https://i.pinimg.com/474x/37/98/1f/37981f08b3b5b16200fbba1e419b6e13.jpg");
+        height:300px!important;
+        margin: auto;
+        margin-left: 20px!important;
+        margin-right: 20px!important;
+        margin-top: 10px!important;
+
+    }
+    .H1Heding{
+        color: white;
+        padding: 15px!important;
+    }
+    .kator{
+        color: rgb(26, 200, 26);
+        padding-top: 15px!important;
+        padding-left: 15px!important;
+    }
+    
+    .CountDown1{
+        margin-top:0px!important;
+        padding-left: 5px!important;
+    margin-left: 30px!important;
+    font-size: 25px!important;
+    padding: 10px!important;
+    color: rgba(45, 43, 43, 0.758);
+    display: flex;
+    flex-direction: row;
+    font-family:Verdana, Geneva, Tahoma, sans-serif!important
+    
+    
+    }
+    .BuyNow{
+        color: aliceblue;
+        background-color: rgb(17, 243, 17);
+        height: 30px!important;
+        width:135px!important;
+        border: none;
+        margin-left: 45px!important;
+        font-size: 15px!important;
+        padding: 5px!important;
+        text-align: center;
+    }
+    .DimImg{
+        height: 300px!important;
+        width: 250px!important;
+    }
+    .pTime1{
+        font-size: 8px;
+        margin-left: 3px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .Hours{
+        background-color: aliceblue;
+        border-radius: 50%;
+        height: 30px!important;
+        width:30px!important;
+    text-align: center;
+    padding: 10px!important;
+    margin: 10px!important;
+    }
+}
+@media(max-width:590px) {
+    .grid1{
+        display: flex;
+        flex-direction: column;
+    }
+    .grid2{
+        padding:20px    }
+        .DimImg{
+            width: 100%!important;
+            height: 250px!important;
+
+        }
+        .H1Heding{
+            font-size: 18px!important;
+        }
+        .CountDown1{
+            margin-left: 10px!important;
+        }
+        .grid1{
+            margin-bottom: 400px;
+        }
+
+}
+.SwipeInfoDiv1{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 80px;
+
+
+}
+.SwiperImg{
+    position: absolute;
+}
+#IconSwiper{
+    font-size: 60px;
+    color: aliceblue;
+}
+.InfoSwipe{
+color: white;
+margin-left: 25px;
+margin-bottom: 10px;
+}
+.voucherSwipe1{
+    color: rgb(225, 225, 225);
+    font-size: 40px;
+   margin-top: -220px;
+}
+.voucherSwipe2{
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.linkSwipe{
+    color: aliceblue;
+    font-size: 20px;
+}
+.SwiperImg1{
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+@media(max-width:900px) {
+    .SwiperImg1{
+        height: 340px;
+        width: 340px;
+        
+    
+    }
+        .voucherSwipe1{
+            color: rgb(225, 225, 225);
+            font-size: 33px;
+           margin-top: -150px;
+        }
+        .voucherSwipe2{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 20px;
+        }
+        .linkSwipe{
+            color: aliceblue;
+            font-size: 20px;
+        }
+}
+@media(max-width:685px) {
+    .SwiperImg1{
+        height: 300px;
+        width: 270px;
+        
+    
+    }
+        .voucherSwipe1{
+            color: rgb(225, 225, 225);
+            font-size: 25px;
+           margin-top: -110px;
+        }
+        .voucherSwipe2{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 17px;
+        }
+        .linkSwipe{
+            color: aliceblue;
+            font-size: 17px;
+        }
+}
+@media(max-width:520px) {
+    .SwiperImg1{
+        height: 230px;
+        width: 230px;
+        
+    
+    }
+        .voucherSwipe1{
+            color: rgb(225, 225, 225);
+            font-size: 21px;
+           margin-top: -90px;
+        }
+        .voucherSwipe2{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 12px;
+        }
+        .linkSwipe{
+            color: aliceblue;
+            font-size: 15px;
+        }
+}
+@media(max-width:430px) {
+    .SwiperImg1{
+        height: 190px;
+        width: 190px;
+        
+    
+    }
+        .voucherSwipe1{
+            color: rgb(225, 225, 225);
+            font-size: 18px;
+           margin-top: -80px;
+        }
+        .voucherSwipe2{
+            color: rgb(255, 255, 255);
+            margin-bottom: 2px;
+            font-size: 10px;
+        }
+        .linkSwipe{
+            color: aliceblue;
+            font-size: 13px;
+        }
+}
+@media(max-width:363px) {
+    .SwiperImg1{
+        height: 170px;
+        width: 170px;
+        
+    
+    }
+        .voucherSwipe1{
+            color: rgb(225, 225, 225);
+            font-size: 16px;
+           margin-top: -75px;
+        }
+        .voucherSwipe2{
+            color: rgb(255, 255, 255);
+            margin-bottom: 1px;
+            font-size: 9px;
+        }
+        .linkSwipe{
+            color: aliceblue;
+            font-size: 11px;
+        }
+}
+.voucherSwipe3{
+    color: rgb(225, 225, 225);
+    font-size: 40px;
+   margin-top: -220px;
+}
+.voucherSwipe4{
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.linkSwipe1{
+    color: aliceblue;
+    font-size: 20px;
+}
+.SwiperImg2{
+    height: 220px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+@media(max-width:900px) {
+    .SwiperImg2{
+        height: 170px;
+        width: 360px;
+        margin-bottom: 10px;
+    }
+        .voucherSwipe3{
+            color: rgb(225, 225, 225);
+            font-size: 25px;
+           margin-top: -120px;
+        }
+        .voucherSwipe4{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 17px;
+        }
+        .linkSwipe1{
+            color: aliceblue;
+            font-size: 17px;
+        }
+}
+@media(max-width:698px) {
+    .SwiperIm2{
+        height: 120px;
+        width: 240px;
+
+        
+    
+    }
+        .voucherSwipe3{
+            color: rgb(225, 225, 225);
+            font-size: 20px;
+           margin-top: -110px;
+        }
+        .voucherSwipe4{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        .linkSwipe1{
+            color: aliceblue;
+            font-size: 14px;
+        }
+}
+@media(max-width:520px) {
+    .SwiperImg2{
+        height: 230px;
+        width: 230px;
+        margin-top: 10px;
+        
+    
+    }
+        .voucherSwipe3{
+            color: rgb(225, 225, 225);
+            font-size: 21px;
+           margin-top: -90px;
+        }
+        .voucherSwipe4{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 12px;
+        }
+        .linkSwipe1{
+            color: aliceblue;
+            font-size: 15px;
+        }
+}
+@media(max-width:430px) {
+    .SwiperImg2{
+        height: 190px;
+        width: 190px;
+        
+    
+    }
+        .voucherSwipe3{
+            color: rgb(225, 225, 225);
+            font-size: 18px;
+           margin-top: -80px;
+        }
+        .voucherSwipe4{
+            color: rgb(255, 255, 255);
+            margin-bottom: 2px;
+            font-size: 10px;
+        }
+        .linkSwipe1{
+            color: aliceblue;
+            font-size: 13px;
+        }
+}
+@media(max-width:363px) {
+    .SwiperImg2{
+        height: 170px;
+        width: 170px;
+        
+    
+    }
+        .voucherSwipe3{
+            color: rgb(225, 225, 225);
+            font-size: 16px;
+           margin-top: -75px;
+        }
+        .voucherSwipe4{
+            color: rgb(255, 255, 255);
+            margin-bottom: 1px;
+            font-size: 9px;
+        }
+        .linkSwipe1{
+            color: aliceblue;
+            font-size: 11px;
+        }
+}
+.voucherSwipe5{
+    color: rgb(225, 225, 225);
+    font-size: 20px;
+   margin-top: -180px;
+}
+.voucherSwipe6{
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+.linkSwipe2{
+    color: aliceblue;
+    font-size: 10px;
+}
+.SwiperImg3{
+    height: 180px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+@media(max-width:900px) {
+    .SwiperImg3{
+        height: 180px;
+        width: 180px;
+        
+    
+    }
+        .voucherSwipe5{
+            color: rgb(225, 225, 225);
+            font-size: 23px;
+           margin-top: -150px;
+        }
+        .voucherSwipe6{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 10px;
+        }
+        .linkSwipe2{
+            color: aliceblue;
+            font-size: 10px;
+        }
+}
+@media(max-width:685px) {
+    .SwiperIm3{
+        height: 70px;
+        width: 70px;
+        margin-right: 10px;
+        
+    
+    }
+        .voucherSwipe5{
+            color: rgb(225, 225, 225);
+            font-size: 20px;
+           margin-top: -125px;
+        }
+        .voucherSwipe6{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 17px;
+        }
+        .linkSwipe2{
+            color: aliceblue;
+            font-size: 17px;
+        }
+}
+@media(max-width:520px) {
+    .SwiperImg3{
+        height: 230px;
+        width: 230px;
+        
+    
+    }
+        .voucherSwipe5{
+            color: rgb(225, 225, 225);
+            font-size: 21px;
+           margin-top: -90px;
+        }
+        .voucherSwipe6{
+            color: rgb(255, 255, 255);
+            margin-bottom: 10px;
+            font-size: 12px;
+        }
+        .linkSwipe2{
+            color: aliceblue;
+            font-size: 15px;
+        }
+}
+@media(max-width:430px) {
+    .SwiperImg3{
+        height: 190px;
+        width: 190px;
+        
+    
+    }
+        .voucherSwipe5{
+            color: rgb(225, 225, 225);
+            font-size: 18px;
+           margin-top: -80px;
+        }
+        .voucherSwipe6{
+            color: rgb(255, 255, 255);
+            margin-bottom: 2px;
+            font-size: 10px;
+        }
+        .linkSwipe2{
+            color: aliceblue;
+            font-size: 13px;
+        }
+}
+@media(max-width:363px) {
+    .SwiperImg3{
+        height: 170px;
+        width: 170px;
+        
+    
+    }
+        .voucherSwipe5{
+            color: rgb(225, 225, 225);
+            font-size: 16px;
+           margin-top: -75px;
+        }
+        .voucherSwipe6{
+            color: rgb(255, 255, 255);
+            margin-bottom: 1px;
+            font-size: 9px;
+        }
+        .linkSwipe2{
+            color: aliceblue;
+            font-size: 11px;
+        }
+}
+
+.bimBirlik{
+    display: flex;
+    flex-direction: row;
+}
+.Carts{
+    display: flex;
+    flex-direction: row;
+}
+@media(max-width:626px) {
+    .bimBirlik{
+        display: flex;
+        flex-direction: column;
+        margin: 70px;
+    }
+    .Carts{
+        display: flex;
+        flex-direction: column;
+    }
+    .SwiperImg3{
+        padding: 10px;
+    }
+    .voucherSwipe3{
+    font-size: 20px!important;
+    margin-top: -160px;
+
+    }
+    .SwiperImg2{
+        margin-bottom: 70px;
+        padding-top: 10px;
+        height: 230px;
+        width: 230px;
+    }
+    .SwiperImg3{
+        width: 220px;
+        border-radius: 20px;
+    }
+    .voucherSwipe5{
+        margin-left: 20px;
+
+    }
+    .voucherSwipe6{
+        margin-left: 20px;
+    }
+    .linkSwipe2{
+        margin-left: 20px;
+    }
+    .voucherSwipe5{
+        margin-top: -100px;
+    }
+}
+.SonDivmi{
+    display: flex;
+    flex-direction: column; 
+}
+.SonSS{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+#stil{
+font-size: 20px;
+padding: 15px;
+background-color: rgb(13, 12, 12);
+border-radius: 50%;
+color: white;
+}
+.SonDivmi1{
+    background-color: gray;
+    padding: 10px;
+    border-radius: 50%;
+    width:55px;
+}
+.Heder{
+    font-size: 15px;
+    text-align: center;
+    margin-left: -40px;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+@media(max-width:715px) {
+    .SonDivmi{
+        display: flex;
+        flex-direction: column; 
+    }
+    .SonSS{
+        display: flex;
+        flex-direction: row;
+        margin-top: 100px;
+        justify-content: space-around;
+    }
+    #stil{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(13, 12, 12);
+    border-radius: 50%;
+    color: white;
+    }
+    .SonDivmi1{
+        background-color: gray;
+        padding: 5px;
+        border-radius: 50%;
+        width:35px;
+    }
+    .Heder{
+        font-size: 10px;
+        text-align: center;
+        margin-left: -35px;
+        margin-top: 10px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .Heder2{
+        margin-left: -25px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+}
+@media(max-width:435px) {
+    .SonDivmi{
+        display: flex;
+        flex-direction: column; 
+        margin: 10px;
+
+    }
+    .SonSS{
+        display: flex;
+        flex-direction: row;
+        margin-top: 100px;
+        justify-content: space-around;
+    }
+    #stil{
+    font-size: 13px;
+    padding: 8px;
+    background-color: rgb(13, 12, 12);
+    border-radius: 50%;
+    color: white;
+    }
+    .SonDivmi1{
+        background-color: gray;
+        padding: 4px;
+        border-radius: 50%;
+        width:30px;
+    }
+    .Heder{
+        font-size: 8px;
+        text-align: center;
+        margin-left: -30px;
+        margin-top: 10px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       
+    }
+    .Heder2{
+        margin-left: -15px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+}
